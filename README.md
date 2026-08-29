@@ -1,4 +1,4 @@
-# FastAPI Portfolio API
+# FastAPI
 
 A lightweight RESTful API built with Python and FastAPI demonstrating core backend development concepts, clean route structuring, and interactive API documentation.
 
