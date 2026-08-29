@@ -22,7 +22,7 @@ A lightweight RESTful API built with Python and FastAPI demonstrating core backe
    ```
 
 3. **Install dependencies:**
-   ``bash
+   ```bash
    pip install -r requirements.txt
    ```
 
